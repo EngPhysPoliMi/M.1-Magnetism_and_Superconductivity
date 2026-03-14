@@ -1,6 +1,6 @@
-# x.y - Template
+# M.1 - Magnetism and Superconductivity
 
-Repository for "Template".
+Repository for "Magnetism and Superconductivity".
 
 
 ## Use instructions
